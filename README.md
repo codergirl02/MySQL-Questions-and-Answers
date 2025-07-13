@@ -52,10 +52,3 @@ I’m a data enthusiast with experience in retail IT and a strong interest in da
 
 - **LinkedIn:** (www.linkedin.com/in/mrunmayee-hasabnis) 
 
----
-
-## 📌 Future Plans
-
-- Add advanced query problems (e.g., Window Functions, CTEs, Views)
-- Upload sample databases for practice (like Superstore or Sales DB)
-- Add README links to specific topics for better navigation
