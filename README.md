@@ -7,8 +7,6 @@ This repository contains a curated collection of **MySQL practice questions and 
 ## 📂 Repository Contents
 
 - `MYSQL Assignments Answers.sql`:  
-  Contains SQL queries for all questions along with answers and comments for clarity.
-
 
 ---
 
